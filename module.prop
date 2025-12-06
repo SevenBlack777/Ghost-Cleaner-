@@ -1,0 +1,6 @@
+id=ghost_cleaner_ui
+name=Ghost Cleaner (WebUI)
+version=v3.0
+versionCode=3
+author=酷安柒黑
+description=多线程后台定时清理工具。UI面板支持无限添加目标路径 (支持 KSU/MMRL)。
