@@ -2,5 +2,5 @@
   "version": "v4.2",
   "versionCode": 5,
   "zipUrl": "https://github.com/SevenBlack777/Ghost-Cleaner-/releases/download/v4.1/GhostCleanerv4.2.zip",
-  "changelog": "这是初始版本，已支持远程更新检测。"
+  "changelog": "https://raw.githubusercontent.com/SevenBlack777/Ghost-Cleaner-/main/CHANGELOG.md"
 }
